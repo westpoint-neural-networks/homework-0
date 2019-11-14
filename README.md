@@ -1,7 +1,7 @@
-# Homework Assigments
+# Hello, World!
 
-To complete a homework assignment, clone this repository to [Google Colab](http://colab.research.google.com/github), complete the assignment, then push your changes back to your repo before the due date. 
+We will be using [Google Colab](http://colab.research.google.com/github) to train our models in this class. Your homework assignments are [Jupyter Notebooks](https://jupyter.org/) that you will run and complete in [Google Colab](http://colab.research.google.com/github) and then commit your work to your homework repo for the assignemnt.
 
-## Homework 0: Hello, World! (0 points)
+## Homework 0 (0 points)
 
-Add a cell to Homework 0.ipynb that prints "Hello, World!" to standard output. 
+Add a cell to `hello-world.ipynb` that prints `Hello, World!` to standard output. 
